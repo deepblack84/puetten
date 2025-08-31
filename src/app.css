@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+    --color-jomi: #C6D6D5;
+    --color-gold: #F5DC9C;
+    --color-green-mud: #B0AD87;
+}
