@@ -21,11 +21,9 @@ import Button from "$lib/button.svelte";
                 <Icon icon="mdi:wrench-cog-outline" width="48" height="48"  style="color: #000000" />            
             </span>
                 <div>
-                <h3 class="font-semibold text-xl">Kundendienst</h3>
-                <p class="mt-1 text-gray-500"> Ein tropfender Wasserhahn, ein defektes Rohr, eine kalte Heizungsanlage?</p>
-                
-                
-                <Button />
+                    <h3 class="font-semibold text-xl">Kundendienst</h3>
+                    <p class="mt-1 text-gray-500"> Ein tropfender Wasserhahn, ein defektes Rohr, eine kalte Heizungsanlage?</p>
+                    <Button />
                 </div>
         </div>
 
