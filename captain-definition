@@ -1,6 +1,4 @@
 {
 	"schemaVersion": 2,
-	"dockerfileLines": [
-		"FROM node:22",
-	]
+	"templateId": "node/22"
 }
